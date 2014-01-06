@@ -34,67 +34,67 @@
             </li>
           
             <li class="level-3">
-              <a href="/guides/getting-started/displaying-a-models-completeness"></a>
+              <a href="/guides/getting-started/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/getting-started/creating-a-new-model"></a>
+              <a href="/guides/getting-started/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/getting-started/marking-a-model-as-complete-incomplete"></a>
+              <a href="/guides/getting-started/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/getting-started/displaying-the-number-of-incomplete-todos"></a>
+              <a href="/guides/getting-started/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/getting-started/toggle-todo-editing-state"></a>
+              <a href="/guides/getting-started/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/getting-started/accepting-edits"></a>
+              <a href="/guides/getting-started/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/getting-started/deleting-todos"></a>
+              <a href="/guides/getting-started/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/getting-started/adding-child-routes"></a>
+              <a href="/guides/getting-started/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/getting-started/show-only-incomplete-todos"></a>
+              <a href="/guides/getting-started/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/getting-started/show-only-complete-todos"></a>
+              <a href="/guides/getting-started/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/getting-started/show-all-todos-again"></a>
+              <a href="/guides/getting-started/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/getting-started/display-a-button-to-remove-completed-todos"></a>
+              <a href="/guides/getting-started/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/getting-started/show-when-all-todos-are-complete"></a>
+              <a href="/guides/getting-started/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/getting-started/toggle-all-todos"></a>
+              <a href="/guides/getting-started/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/getting-started/using-other-adapters"></a>
+              <a href="/guides/getting-started/"></a>
             </li>
           </ol></li>
           <li class="level-1">
-            <a href="/guides/getting-ember"></a>
+            <a href="/guides/"></a>
             <ol>
         
             <li class="level-3">
@@ -122,31 +122,31 @@
             </li>
           
             <li class="level-3">
-              <a href="/guides/object-model/computed-properties"></a>
+              <a href="/guides/object-model/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/object-model/computed-properties-and-aggregate-data"></a>
+              <a href="/guides/object-model/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/object-model/observers"></a>
+              <a href="/guides/object-model/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/object-model/bindings"></a>
+              <a href="/guides/object-model/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/object-model/reopening-classes-and-instances"></a>
+              <a href="/guides/object-model/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/object-model/what-do-i-use-when"></a>
+              <a href="/guides/object-model/"></a>
             </li>
           </ol></li>
           <li class="level-1">
-            <a href="/guides/application"></a>
+            <a href="/guides/"></a>
             <ol>
         
             <li class="level-3">
@@ -154,59 +154,59 @@
             </li>
           </ol></li>
           <li class="level-1">
-            <a href="/guides/templates/the-application-template"></a>
+            <a href="/guides/templates/"></a>
             <ol>
         
             <li class="level-3">
-              <a href="/guides/templates/the-application-template"></a>
+              <a href="/guides/templates/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/templates/handlebars-basics"></a>
+              <a href="/guides/templates/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/templates/conditionals"></a>
+              <a href="/guides/templates/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/templates/displaying-a-list-of-items"></a>
+              <a href="/guides/templates/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/templates/changing-scope"></a>
+              <a href="/guides/templates/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/templates/binding-element-attributes"></a>
+              <a href="/guides/templates/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/templates/binding-element-class-names"></a>
+              <a href="/guides/templates/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/templates/links"></a>
+              <a href="/guides/templates/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/templates/actions"></a>
+              <a href="/guides/templates/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/templates/input-helpers"></a>
+              <a href="/guides/templates/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/templates/rendering-with-helpers"></a>
+              <a href="/guides/templates/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/templates/writing-helpers"></a>
+              <a href="/guides/templates/"></a>
             </li>
           </ol></li>
           <li class="level-1">
-            <a href="/guides/routing"></a>
+            <a href="/guides/"></a>
             <ol>
         
             <li class="level-3">
@@ -214,43 +214,43 @@
             </li>
           
             <li class="level-3">
-              <a href="/guides/routing/defining-your-routes"></a>
+              <a href="/guides/routing/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/routing/generated-objects"></a>
+              <a href="/guides/routing/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/routing/specifying-a-routes-model"></a>
+              <a href="/guides/routing/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/routing/setting-up-a-controller"></a>
+              <a href="/guides/routing/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/routing/rendering-a-template"></a>
+              <a href="/guides/routing/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/routing/redirection">Redirecting</a>
+              <a href="/guides/routing/">Redirecting</a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/routing/specifying-the-location-api"></a>
+              <a href="/guides/routing/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/routing/asynchronous-routing"></a>
+              <a href="/guides/routing/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/routing/loading-and-error-substates"></a>
+              <a href="/guides/routing/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/routing/preventing-and-retrying-transitions"></a>
+              <a href="/guides/routing/"></a>
             </li>
           </ol></li>
           <li class="level-1">
@@ -258,35 +258,35 @@
             <ol>
         
             <li class="level-3">
-              <a href="/guides/components"></a>
+              <a href="/guides/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/components/defining-a-component"></a>
+              <a href="/guides/components/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/components/passing-properties-to-a-component"></a>
+              <a href="/guides/components/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/components/wrapping-content-in-a-component"></a>
+              <a href="/guides/components/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/components/customizing-a-components-element"></a>
+              <a href="/guides/components/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/components/handling-user-interaction-with-actions"></a>
+              <a href="/guides/components/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/components/sending-actions-from-components-to-your-application"></a>
+              <a href="/guides/components/"></a>
             </li>
           </ol></li>
           <li class="level-1">
-            <a href="/guides/controllers"></a>
+            <a href="/guides/"></a>
             <ol>
         
             <li class="level-3">
@@ -294,19 +294,19 @@
             </li>
           
             <li class="level-3">
-              <a href="/guides/controllers/representing-a-single-model-with-objectcontroller"></a>
+              <a href="/guides/controllers/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/controllers/representing-multiple-models-with-arraycontroller"></a>
+              <a href="/guides/controllers/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/controllers/dependencies-between-controllers"></a>
+              <a href="/guides/controllers/"></a>
             </li>
           </ol></li>
           <li class="level-1">
-            <a href="/guides/models"></a>
+            <a href="/guides/"></a>
             <ol>
         
             <li class="level-3">
@@ -314,43 +314,43 @@
             </li>
           
             <li class="level-3">
-              <a href="/guides/models/defining-models"></a>
+              <a href="/guides/models/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/models/creating-and-deleting-records"></a>
+              <a href="/guides/models/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/models/pushing-records-into-the-store"></a>
+              <a href="/guides/models/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/models/persisting-records"></a>
+              <a href="/guides/models/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/models/finding-records"></a>
+              <a href="/guides/models/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/models/working-with-records"></a>
+              <a href="/guides/models/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/models/connecting-to-an-http-server"></a>
+              <a href="/guides/models/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/models/handling-metadata"></a>
+              <a href="/guides/models/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/models/frequently-asked-questions"></a>
+              <a href="/guides/models/"></a>
             </li>
           </ol></li>
           <li class="level-1">
-            <a href="/guides/views"></a>
+            <a href="/guides/"></a>
             <ol>
         
             <li class="level-3">
@@ -358,35 +358,35 @@
             </li>
           
             <li class="level-3">
-              <a href="/guides/views/defining-a-view"></a>
+              <a href="/guides/views/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/views/handling-events"></a>
+              <a href="/guides/views/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/views/inserting-views-in-templates"></a>
+              <a href="/guides/views/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/views/adding-layouts-to-views"></a>
+              <a href="/guides/views/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/views/customizing-a-views-element"></a>
+              <a href="/guides/views/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/views/built-in-views"></a>
+              <a href="/guides/views/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/views/manually-managing-view-hierarchy"></a>
+              <a href="/guides/views/"></a>
             </li>
           </ol></li>
           <li class="level-1">
-            <a href="/guides/enumerables"></a>
+            <a href="/guides/"></a>
             <ol>
         
             <li class="level-3">
@@ -406,19 +406,19 @@
             <ol>
         
             <li class="level-3">
-              <a href="/guides/configuring-ember/disabling-prototype-extensions"></a>
+              <a href="/guides/configuring-ember/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/configuring-ember/embedding-applications"></a>
+              <a href="/guides/configuring-ember/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/configuring-ember/feature-flags"></a>
+              <a href="/guides/configuring-ember/"></a>
             </li>
           </ol></li>
           <li class="level-1">
-            <a href="/guides/cookbook"></a>
+            <a href="/guides/"></a>
             <ol>
         
             <li class="level-3">
@@ -426,23 +426,23 @@
             </li>
           
             <li class="level-3">
-              <a href="/guides/cookbook/contributing"></a>
+              <a href="/guides/cookbook/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/cookbook/user_interface_and_interaction"></a>
+              <a href="/guides/cookbook/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/cookbook/event_handling_and_data_binding"></a>
+              <a href="/guides/cookbook/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/cookbook/helpers_and_components"></a>
+              <a href="/guides/cookbook/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/cookbook/working_with_objects"></a>
+              <a href="/guides/cookbook/"></a>
             </li>
           </ol></li>
           <li class="level-1">
@@ -450,19 +450,19 @@
             <ol>
         
             <li class="level-3">
-              <a href="/guides/understanding-ember/the-view-layer"></a>
+              <a href="/guides/understanding-ember/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/understanding-ember/managing-asynchrony"></a>
+              <a href="/guides/understanding-ember/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/understanding-ember/keeping-templates-up-to-date"></a>
+              <a href="/guides/understanding-ember/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/understanding-ember/debugging"></a>
+              <a href="/guides/understanding-ember/"></a>
             </li>
           </ol></li>
           <li class="level-1">
@@ -470,10 +470,10 @@
             <ol>
         
             <li class="level-3">
-              <a href="/guides/contributing/adding-new-features"></a>
+              <a href="/guides/contributing/"></a>
             </li>
           
             <li class="level-3">
-              <a href="/guides/contributing/repositories"></a>
+              <a href="/guides/contributing/"></a>
             </li>
           </ol></li></ol>

@@ -5,7 +5,7 @@ $(document).bind('pageinit', function(){
     source_file = $(this).data("source-file").toString()
     $.ajax({
       method: "GET",
-      url: parent_dir+source_file,
+      url: parent_dir+source_file+".md",
       success: function(data, status, xhr){
         convertor = new Showdown.converter()
         html = convertor.makeHtml(data)
