@@ -74,7 +74,7 @@ App.Person = DS.Model.extend({
 ```
 
 For more about adding computed properties to your classes, see [Computed
-Properties](/guides/object-model/computed-properties).
+Properties](guides/object-model/computed-properties).
 
 If you don't specify the type of the attribute, it will be whatever was
 provided by the server. You can make sure that an attribute is always
@@ -89,7 +89,7 @@ App.Person = DS.Model.extend({
 The default adapter supports attribute types of `string`,
 `number`, `boolean`, and `date`. Custom adapters may offer additional
 attribute types, and new types can be registered as transforms. See the
-[documentation section on the REST Adapter](/guides/models/the-rest-adapter).
+[documentation section on the REST Adapter](guides/models/the-rest-adapter).
 
 #### Options
 `DS.attr` takes an optional hash as a second parameter, current options are:
