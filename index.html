@@ -6,17 +6,29 @@
     <link rel="stylesheet" href="css/jquery.mobile-1.3.0.min.css" />
     <link rel="stylesheet" type="text/css" href="css/site.css">
     <link rel="stylesheet" type="text/css" href="css/highlight.css">
+    <style type="text/css">
+    .tag{
+      display: block;
+    }
+    code.xml, code.html, code.handlebars, code.javascript {
+      border: 1px solid #ccc; display: block;padding: 20px
+    }
+    </style>
     <script src="js/jquery.js"></script>
     <script src="js/jquery.mobile-1.3.0.min.js"></script>
     <script src="js/showdown.js"></script>
+    <script src="js/highlight.pack.js"></script>
     <script src="js/custom.js"></script>
   </head>
   <body>
     <div data-role="page">
+      <div data-role="header">
+        <h1>EmberJS Mobile Guide App</h1>
+      </div>
       <div data-role="content">
         <ul data-role="listview" data-inset="true">
           <li>
-            <div data-role="collapsible">
+            <div data-role="collapsible" data-iconpos="right">
               <h1>Getting Started</h1>
               <ul data-role="listview" data-source-directory="guides/getting-started/">
                 <li><a href="#" data-source-file="index" class="guide-links">Getting Started</a></li>
@@ -46,7 +58,7 @@
             </div>
           </li>
           <li>
-            <div data-role="collapsible">
+            <div data-role="collapsible" data-iconpos="right">
               <h1>Getting Ember</h1>
               <ul data-role="listview" data-source-directory="guides/getting-ember/">
                 <li><a href="#" data-source-file="index" class="guide-links">Getting Ember</a></li>
@@ -54,7 +66,7 @@
             </div>
           </li>
           <li>
-            <div data-role="collapsible">
+            <div data-role="collapsible" data-iconpos="right">
               <h1>Concepts</h1>
               <ul data-role="listview" data-source-directory="guides/concepts/">
                 <li><a href="#" data-source-file="core-concepts" class="guide-links">Core Concepts</a></li>
@@ -63,7 +75,7 @@
             </div>
           </li>
           <li>
-            <div data-role="collapsible">
+            <div data-role="collapsible" data-iconpos="right">
               <h1>The Object Model</h1>
               <ul data-role="listview" data-source-directory="guides/object-model/">
                 <li><a href="#" data-source-file="classes-and-instances" class="guide-links">Classes and Instances</a></li>
@@ -77,7 +89,7 @@
             </div>
           </li>
           <li>
-            <div data-role="collapsible">
+            <div data-role="collapsible" data-iconpos="right">
               <h1>Application</h1>
               <ul data-role="listview" data-source-directory="guides/application/">
                 <li><a href="#" data-source-file="index" class="guide-links">Introduction</a></li>
@@ -85,7 +97,7 @@
             </div>
           </li>
           <li>
-            <div data-role="collapsible">
+            <div data-role="collapsible" data-iconpos="right">
               <h1>Templates</h1>
               <ul data-role="listview" data-source-directory="guides/templates/">
                 <li><a href="#" data-source-file="the-application-template" class="guide-links">The Application Template</a></li>
@@ -104,7 +116,7 @@
             </div>
           </li>
           <li>
-            <div data-role="collapsible">
+            <div data-role="collapsible" data-iconpos="right">
               <h1>Routing</h1>
               <ul data-role="listview" data-source-directory="guides/routing/">
                 <li><a href="#" data-source-file="index" class="guide-links">Introduction</a></li>
@@ -122,7 +134,7 @@
             </div>
           </li>
           <li>
-            <div data-role="collapsible">
+            <div data-role="collapsible" data-iconpos="right">
               <h1>Components</h1>
               <ul data-role="listview" data-source-directory="guides/components/">
                 <li><a href="#" data-source-file="index" class="guide-links">Introduction</a></li>
@@ -136,7 +148,7 @@
             </div>
           </li>
           <li>
-            <div data-role="collapsible">
+            <div data-role="collapsible" data-iconpos="right">
               <h1>Controllers</h1>
               <ul data-role="listview" data-source-directory="guides/controllers/">
                 <li><a href="#" data-source-file="index" class="guide-links">Introduction</a></li>
@@ -147,7 +159,7 @@
             </div>
           </li>
           <li>
-            <div data-role="collapsible">
+            <div data-role="collapsible" data-iconpos="right">
               <h1>Models</h1>
               <ul data-role="listview" data-source-directory="guides/models/">
                 <li><a href="#" data-source-file="index" class="guide-links">Introduction</a></li>
@@ -164,7 +176,7 @@
             </div>
           </li>
           <li>
-            <div data-role="collapsible">
+            <div data-role="collapsible" data-iconpos="right">
               <h1>Views</h1>
               <ul data-role="listview" data-source-directory="guides/views/">
                 <li><a href="#" data-source-file="index" class="guide-links">Introduction</a></li>
@@ -179,7 +191,7 @@
             </div>
           </li>
           <li>
-            <div data-role="collapsible">
+            <div data-role="collapsible" data-iconpos="right">
               <h1>Enumerables</h1>
               <ul data-role="listview" data-source-directory="guides/enumerables/">
                 <li><a href="#" data-source-file="index" class="guide-links">Introduction</a></li>
@@ -187,15 +199,15 @@
             </div>
           </li>
           <li>
-            <div data-role="collapsible">
+            <div data-role="collapsible" data-iconpos="right">
               <h1>Testing</h1>
-              <ul data-role="listview" data-source-directory="guides/testing/integration/">
-                <li><a href="#" data-source-file="index" class="guide-links">Integration Testing</a></li>
+              <ul data-role="listview" data-source-directory="guides/testing/">
+                <li><a href="#" data-source-file="integration" class="guide-links">Integration Testing</a></li>
               </ul>
             </div>
           </li>
           <li>
-            <div data-role="collapsible">
+            <div data-role="collapsible" data-iconpos="right">
               <h1>Configuring Ember.js</h1>
               <ul data-role="listview" data-source-directory="guides/configuring-ember/">
                 <li><a href="#" data-source-file="disabling-prototype-extensions" class="guide-links">Disabling Prototype Extensions</a></li>
@@ -205,20 +217,20 @@
             </div>
           </li>
           <li>
-            <div data-role="collapsible">
+            <div data-role="collapsible" data-iconpos="right">
               <H1>Cookbook</H1>
               <ul data-role="listview" data-source-directory="guides/cookbook/">
                 <li><a href="#" data-source-file="index" class="guide-links">Introduction</a></li>
-                <li><a href="#" data-source-file="contributing" class="guide-links">Contributing</a></li>
-                <li><a href="#" data-source-file="user_interface_and_interaction" class="guide-links">User Interface and Interaction</a></li>
-                <li><a href="#" data-source-file="event_handling_and_data_binding" class="guide-links">Event Handling &amp; Data Binding</a></li>
-                <li><a href="#" data-source-file="helpers_and_components" class="guide-links">Helpers &amp; Components</a></li>
-                <li><a href="#" data-source-file="working_with_objects" class="guide-links">Working with Objects</a></li>
+                <li><a href="#" data-source-file="contributing/index" class="guide-links">Contributing</a></li>
+                <li><a href="#" data-source-file="user_interface_and_interaction/index" class="guide-links">User Interface and Interaction</a></li>
+                <li><a href="#" data-source-file="event_handling_and_data_binding/index" class="guide-links">Event Handling &amp; Data Binding</a></li>
+                <li><a href="#" data-source-file="helpers_and_components/index" class="guide-links">Helpers &amp; Components</a></li>
+                <li><a href="#" data-source-file="working_with_objects/index" class="guide-links">Working with Objects</a></li>
               </ul>
             </div>
           </li>
           <li>
-            <div data-role="collapsible">
+            <div data-role="collapsible" data-iconpos="right">
               <h1>Understanding Ember.js</h1>
               <ul data-role="listview" data-source-directory="guides/understanding-ember/">
                 <li><a href="#" data-source-file="the-view-layer" class="guide-links">The View Layer</a></li>
@@ -229,7 +241,7 @@
             </div>
           </li>
           <li>
-            <div data-role="collapsible">
+            <div data-role="collapsible" data-iconpos="right">
               <h1>Contributing to Ember.js</h1>
               <ul data-role="listview" data-source-directory="guides/contributing/">
                 <li><a href="#" data-source-file="adding-new-features" class="guide-links">Adding New Features</a></li>
@@ -239,9 +251,19 @@
           </li>
         </ul>
       </div>
+      <div data-role="footer">
+        <h1>Copyrights, 2014 Aditya Kapoor</h1>
+      </div>
     </div>
     <div data-role="page" id="content-page">
-      <div data-role="content"></div>
+      <div data-role="header">
+        <a href="#" data-rel="back">Back</a>
+        <h1 id="page-title"></h1>
+      </div>
+      <div data-role="content" id="page-body"></div>
+      <div data-role="footer">
+        <h1>Copyrights, 2014 Aditya Kapoor</h1>
+      </div>
     </div>
   </body>
 </html>

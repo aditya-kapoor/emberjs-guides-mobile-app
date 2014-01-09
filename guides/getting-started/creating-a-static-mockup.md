@@ -16,7 +16,6 @@ To start, add the following text to `index.html`:
         <h1>todos</h1>
         <input type="text" id="new-todo" placeholder="What needs to be done?" />
       </header>
-
       <section id="main">
         <ul id="todo-list">
           <li class="completed">
@@ -32,10 +31,8 @@ To start, add the following text to `index.html`:
             <label>Profit!</label><button class="destroy"></button>
           </li>
         </ul>
-
         <input type="checkbox" id="toggle-all">
       </section>
-
       <footer id="footer">
         <span id="todo-count">
           <strong>2</strong> todos left
@@ -51,13 +48,11 @@ To start, add the following text to `index.html`:
             <a href="completed">Completed</a>
           </li>
         </ul>
-
         <button id="clear-completed">
           Clear completed (1)
         </button>
       </footer>
     </section>
-
     <footer id="info">
       <p>Double-click to edit a todo</p>
     </footer>
@@ -77,4 +72,3 @@ Open `index.html` in your web browser to ensure that all assets are loading corr
   * [Changes in this step in `diff` format](https://github.com/emberjs/quickstart-code-sample/commit/4d91f9fa1f6be4f4675b54babd3074550095c930)
   * [TodoMVC stylesheet](http://emberjs.com.s3.amazonaws.com/getting-started/style.css)
   * [TodoMVC background image](http://emberjs.com.s3.amazonaws.com/getting-started/bg.png)
-  
