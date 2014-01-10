@@ -1,7 +1,7 @@
 EmberApp = {
   convertor: {},
   bindEvents: function(){
-    $('a').click(function(event){
+    $(document).delegate('a', "click", function(event){
       if($(this).hasClass("guide-links")){
         EmberApp.handleAJAXforGuideLinks($(this))
         event.preventDefault();
