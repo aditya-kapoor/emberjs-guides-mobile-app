@@ -6,8 +6,9 @@ EmberApp = {
         EmberApp.handleAJAXforGuideLinks($(this))
         event.preventDefault();
       }else{
-        if($(this).attr("href").indexOf("http://") != 0){
-          console.log($(this))
+        if($(this).attr("href").indexOf("/guides") == 0){
+          EmberApp.sendAJAX(window.location.pathname + $(this).attr("href") + ".md", $(this).text())
+          event.preventDefault()
         }
       }
     })
@@ -16,15 +17,15 @@ EmberApp = {
     $parent_el  = $(element).closest('ul')
     parent_dir  = $parent_el.data("source-directory").toString()
     source_file = $(element).data("source-file").toString()
-    EmberApp.sendAJAX(parent_dir+source_file+".md", element)
+    EmberApp.sendAJAX(parent_dir+source_file+".md", $(element).text())
   },
-  sendAJAX: function(url, element){
+  sendAJAX: function(url, page_title){
     $.ajax({
       method: "GET",
       url: url,
       success: function(data, status, xhr){
         page_html = EmberApp.makeHtml(data)
-        EmberApp.navigateToPage(page_html, $(element).text())
+        EmberApp.navigateToPage(page_html, page_title)
       }
     })
   },
