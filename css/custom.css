@@ -1,0 +1,2 @@
+.tag{ display: block; }
+code.xml, code.html, code.handlebars, code.javascript { border: 1px solid #ccc; display: block;padding: 20px }
